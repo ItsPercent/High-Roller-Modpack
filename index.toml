@@ -22,7 +22,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "c5119a1013858202f45b8aa5804dcaf53c4230f0b9a88ccd2ddcc0960b0125fa"
+hash = "4bd7fdf1117260cad9b1a76927dcf8db1b74feea6a231334cfe2c5fddfe48038"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -1077,6 +1077,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "4d949b696cb80dea8ffa799fae89b3d20b62503386e8e4067224689f79b7b695"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "9f036fd7c6a35da985a6bb653ec6f3bcb21a82fdafbfa355f3bb560139d21b71"
 metafile = true
 
 [[files]]
