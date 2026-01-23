@@ -386,6 +386,11 @@ hash = "4e4c84bceb069b3319bbffdc47540f2fec2eaeeed9cdc9911bb2e00c01872767"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "6ce209c1fb04329eb79b5782b6655f5ae6800b4d0be3d412fff5cd75ae973166"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "bf6be5e42afaafa615c63b6cac9500fbedd27ab54cdeca86afc8dc98a49618cb"
 metafile = true
