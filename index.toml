@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/HighRoller.iml"
-hash = "034b306bc2d28ea2978e349dec29a1dd566cae425e1568843a364ec45b50fa2d"
-
-[[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "29e47b4b32ea1784a7156c41f7a21ef0a9fac3ef3dc70e243b3a15b08c07d810"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "920d768fc92aa9db93d7fb8b6553542a283dbc13c2a5c39a46c8f50d7fd6b129"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "4bd7fdf1117260cad9b1a76927dcf8db1b74feea6a231334cfe2c5fddfe48038"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
@@ -92,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
-metafile = true
-
-[[files]]
-file = "mods/arsdelight.pw.toml"
-hash = "710e7c2423c8a14f2037f88e955544ad55d54460a1f2e5b884b34d60aa1cb0b1"
 metafile = true
 
 [[files]]
@@ -401,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -830,8 +801,18 @@ hash = "03019ce1c2ba317c45faed184e83a078c0eaf689ba7bd504323f27b5decb25d8"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
@@ -880,8 +861,18 @@ hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
 
 [[files]]
+file = "mods/ram-compat.pw.toml"
+hash = "79520a17ae356d0d5f993bd1c5826d386813c6a957a4dc3a0693fdd7bf769ca5"
+metafile = true
+
+[[files]]
 file = "mods/recipe-modification.pw.toml"
 hash = "7ffb5ab61ee52b7e48ed96c049f3e9fdd254d760363829aa47b151bff0c8bdf8"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "071431afe4ae064387606fac09482058c41c0d3875b23140205597e4eea55d35"
 metafile = true
 
 [[files]]
@@ -997,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "974af7bd8b20941d615aa6d37f522da34f62d81ddee97ccfad3c458b5db8ece5"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "0ebc212bb83219ecd2b24d3943ab84a905c5f0963b04755fcf816d3b7744dc6b"
 metafile = true
 
 [[files]]
@@ -1162,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
 
 [[files]]
