@@ -25,6 +25,11 @@ file = ".idea/workspace.xml"
 hash = "4bd7fdf1117260cad9b1a76927dcf8db1b74feea6a231334cfe2c5fddfe48038"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
 metafile = true
@@ -40,6 +45,11 @@ hash = "db6cf26aba8742b857dd7aeb208bc7333299e9b3b54f9ce5ff29a967c2faf713"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-enriched.pw.toml"
+hash = "2b1a1854eead1e7cde1dcbff252bca755d6462276e5fef9721d884274a614115"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
@@ -52,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
 metafile = true
 
 [[files]]
@@ -170,6 +185,11 @@ hash = "d439aaf90eb75c1e5cd3131450919f3ceedc7e0ddf66551e6b89872549b028dd"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
 metafile = true
@@ -242,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/compat-delight.pw.toml"
+hash = "f1f2ac0a30c1b2912e335f3d36b02a22af8b962385ed0a68bdcfa46cc83b9498"
 metafile = true
 
 [[files]]
@@ -685,6 +710,11 @@ hash = "b6c8fc3548a4254cf4d608a75a1034badf22589bba96349de77fffe8acb90546"
 metafile = true
 
 [[files]]
+file = "mods/knaves-needs.pw.toml"
+hash = "86b8b7b5f283ff28cd0cf4c2e30e018855217aaaf660e620deefd4beb538807f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
@@ -855,6 +885,16 @@ hash = "7ffb5ab61ee52b7e48ed96c049f3e9fdd254d760363829aa47b151bff0c8bdf8"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
@@ -977,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "5567a50fa7781ba147e7006ec1a707d3f3aff431fe3bc008b0292015c8a365ba"
 metafile = true
 
 [[files]]
