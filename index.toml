@@ -576,6 +576,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod-reforged.pw.toml"
+hash = "842e108db49bc2d4f7ac28327ce41c3d36fc026b59b0cfb5c2a342a27bfdc1ae"
+metafile = true
+
+[[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "3d52663acb2436d6891c4f962a78ceaec929cf5a82bc38d41a863a168a6e065d"
 metafile = true
@@ -843,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
+file = "mods/rac-compat.pw.toml"
+hash = "dfe98fff6f1b53ea6cf1a6ba29b41fa0d9794a619be4aea50cc6cdd8c1147557"
 metafile = true
 
 [[files]]
