@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "c1284726c60bfa550ccb64104dd8a293c831aca08228ebb0f5e27ce9bd7f9cac"
 metafile = true
 
 [[files]]
@@ -271,6 +276,11 @@ hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "c287631064c1179bea1c515d8f6202f7c18595498242110bc882e8a1aed8382a"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
@@ -328,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "de2de998a20ace7b50a6aadc4984343a81343096fe2acec92fb9326be40bb6c5"
-metafile = true
-
-[[files]]
-file = "mods/create-winery.pw.toml"
-hash = "5fc006b5dc286cd8666b5caa9e7c29f93d8c7804ce794f53fb6c45694c50aa65"
 metafile = true
 
 [[files]]
@@ -556,6 +561,11 @@ hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "5c2edd9eb7d86b2b2a34c393022cb376f2667dacd143533412f4c7c731357509"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "37f1b3f45cb39418f5c309b6d17cf5c2a7038fd1d3dee9619610b83a94db449a"
 metafile = true
@@ -563,6 +573,16 @@ metafile = true
 [[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "56c13de005d72f6006247fb1997c9c1ac2c30127a3746b947d4fb891d9fc7da5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "1c383e66311b5edd6d7116ae0544108d60450f58e94853126665d75d85561d68"
 metafile = true
 
 [[files]]
@@ -933,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "3d7df4670a84a11c00bdeb58d83cffa6c4618e728ace1c0a1c674105d2c62269"
 metafile = true
 
 [[files]]
